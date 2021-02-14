@@ -14,7 +14,7 @@
           "error",
           {
             "type": "attribute",
-            "prefix": "angular-loading-examples",
+            "prefix": "app",
             "style": "camelCase"
           }
         ],
@@ -22,7 +22,7 @@
           "error",
           {
             "type": "element",
-            "prefix": "angular-loading-examples",
+            "prefix": "app",
             "style": "kebab-case"
           }
         ]
